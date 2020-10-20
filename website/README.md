@@ -3,7 +3,7 @@
 This website uses 
 
 - [Hugo](https://gohugo.io) for generating the html
-- [Docsy](https://github.com/google/docsy) theme for Hugo, released under [Apache v2](https://github.com/google/docsy/blob/master/LICENSE).
+- [Docsy](https://github.com/google/docsy) theme for Hugo, released under license [Apache v2](https://github.com/google/docsy/blob/master/LICENSE).
 
 ## Getting started
 
